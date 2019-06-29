@@ -4,8 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "GIT TUTORIAL" << endl;
-    cout << "NEW CHANGE" << endl;
-    cout << "CRINGE CHUVAK" << endl;
+    cout << "jopa" << endl;
     return 0;
 }
